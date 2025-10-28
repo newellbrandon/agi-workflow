@@ -1,7 +1,7 @@
 # agi-workflow
 
 ```mermaid
-graph LR  
+graph TD  
   A[Pretrain foundation model] --> B[Instruction tuning and preferences]  
   B --> C[Tool use and function calling]  
   C --> D[RAG and knowledge integration]  
