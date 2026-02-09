@@ -1,5 +1,7 @@
 # agi-workflow
 
+See [Memory systems and query flow](MEMORY.md) for the intention-based query and memory tool flow.
+
 ```mermaid
 graph TD  
   A[Pretrain foundation model] --> B[Instruction tuning and preferences]  
